@@ -1,16 +1,20 @@
 # chatgpt
 
-A new Flutter project.
+This is a Flutter-based Chatgpt App with a sleek and modern design.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/67297759/220212716-a0336eff-0b09-411d-b827-dab8597fe806.png)
 
-This project is a starting point for a Flutter application.
+## Installation
+To get started, you need to have [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine. Then, follow the instructions below:
 
-A few resources to get you started if this is your first Flutter project:
+1. Open the terminal and navigate to the project folder.
+2. Run the command `flutter packages get` to install the required packages.
+3. Run `flutter run` to build and run the debug app on your emulator/phone
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Credits
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev) for providing an amazing cross-platform framework.
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/rrdhoi/chatgpt/blob/master/LICENSE).
